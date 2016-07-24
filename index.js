@@ -4,7 +4,7 @@ var http = require('http'),
 httpProxy = require('http-proxy'),
 url = require('url');
 
-listeningPort = 8080;
+listeningPort = 8088;
 
 /*
 setting up /etc/hosts for the sake of testing
